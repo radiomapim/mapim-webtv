@@ -1,0 +1,6 @@
+assets/*.mp4
+assets/*.gif
+assets/*.mp3
+*.log
+.env.local
+config.local.env
